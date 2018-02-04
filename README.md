@@ -1,4 +1,4 @@
-# Warehourse-Manager
+# Warehourse-Manager(Java)
 
 Problem Description:
 <br />
